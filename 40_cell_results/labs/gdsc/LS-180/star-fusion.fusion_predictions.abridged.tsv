@@ -1,0 +1,2 @@
+#FusionName	JunctionReadCount	SpanningFragCount	SpliceType	LeftGene	LeftBreakpoint	RightGene	RightBreakpoint	LargeAnchorSupport	FFPM	LeftBreakDinuc	LeftBreakEntropy	RightBreakDinuc	RightBreakEntropy	annots
+GPHN--MPP5	17	10	ONLY_REF_SPLICE	GPHN^ENSG00000171723.15	chr14:66681185:+	MPP5^ENSG00000072415.8	chr14:67312527:+	YES_LDAS	0.159	GT	1.8062	AG	1.8892	["INTRACHROMOSOMAL[chr14:0.06Mb]","NEIGHBORS[59306]"]

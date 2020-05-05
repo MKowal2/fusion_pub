@@ -1,0 +1,556 @@
+fusion,#_occurences,labs_found_in,cells_found_in
+AL391840.3--SH3BGRL2,24,"['ccle', 'ccle', 'ccle', 'ccle', 'ccle', 'ccle', 'ccle', 'ccle', 'ccle', 'gcsi', 'gcsi', 'gcsi', 'gcsi', 'gcsi', 'gcsi', 'gcsi', 'gcsi', 'gdsc', 'gdsc', 'gdsc', 'gdsc', 'gdsc', 'gdsc', 'gdsc']","['NCI-H510A', 'Set-2', 'SW948', 'YAPC', 'SR', 'SW1573', 'SNU-C1', 'C2BBe1', 'KU812', 'NCI-H510A', 'HCT-15', 'YAPC', 'SNU-C1', 'U-266', 'C2BBe1', 'SUIT-2', 'KU812', 'NCI-H510A', 'KNS-62', 'YAPC', 'SW1573', 'SW780', 'C2BBe1', 'KU812']"
+PFKFB3--LINC02649,10,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc', 'gdsc', 'gdsc', 'gdsc', 'gdsc', 'gdsc']","['SR', 'SW48', 'HT-115', 'SR', 'UACC-812', 'SW837', 'SW1463', 'ZR-75-30', 'SW1573', 'SW1116']"
+AC068756.1--AC108690.1,9,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gcsi', 'gdsc', 'gdsc', 'gdsc', 'gdsc']","['SW620', 'COLO-741', 'NCI-H510A', 'SW620', 'KNS-62', 'NCI-H510A', 'SW620', 'HCC1806', 'KNS-62']"
+AL353138.1--PTCHD4,9,"['ccle', 'ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc', 'gdsc', 'gdsc', 'gdsc']","['MDST8', 'SW1573', 'CL-40', 'MDST8', 'SW1573', 'HCT-116', 'MDST8', 'SW1573', 'CL-40']"
+AC004009.1--AC007130.1,8,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gcsi', 'gdsc', 'gdsc', 'gdsc']","['HT-115', 'CL-40', 'HT-115', 'YAPC', 'CL-40', 'HT-115', 'YAPC', 'CL-40']"
+AC006453.1--FAM230C,7,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gcsi', 'gdsc', 'gdsc']","['NCI-H510A', 'KARPAS-620', 'NCI-H510A', 'KARPAS-620', 'U-266', 'NCI-H510A', 'KARPAS-620']"
+AC073529.1--MID1,7,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gcsi', 'gcsi', 'gdsc']","['NCI-H510A', 'HT55', 'SW837', 'NCI-H510A', 'SW1573', 'SW48', 'NCI-H510A']"
+AC011586.2--MSR1,7,"['ccle', 'ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc', 'gdsc']","['SW837', 'NCI-H510A', 'KNS-62', 'NCI-H510A', 'U-266', 'NCI-H510A', 'KNS-62']"
+CNRIP1--AC017083.3,7,"['ccle', 'ccle', 'ccle', 'gcsi', 'gcsi', 'gcsi', 'gdsc']","['NCI-H510A', 'Set-2', 'KU812', 'NCI-H510A', 'Set-2', 'KU812', 'Set-2']"
+AKAP13--PDE8A,6,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc', 'gdsc']","['SW620', 'HCC1187', 'SW620', 'HCC1187', 'SW620', 'HCC1187']"
+PLXND1--TMCC1,6,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc', 'gdsc']","['NCI-H510A', 'HCC1187', 'NCI-H510A', 'HCC1187', 'NCI-H510A', 'HCC1187']"
+CASC19--CASC8,6,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc', 'gdsc']","['HCT-15', 'HT-115', 'HCT-15', 'HT-115', 'HCT-15', 'HT-115']"
+CU104787.1--BAGE2,6,"['ccle', 'ccle', 'ccle', 'gcsi', 'gdsc', 'gdsc']","['NCI-H510A', 'MDA-MB-361', 'KARPAS-620', 'NCI-H510A', 'NCI-H510A', 'HCC1806']"
+AL133342.1--PREX1,5,"['ccle', 'gcsi', 'gcsi', 'gdsc', 'gdsc']","['KARPAS-620', 'HCC1806', 'KARPAS-620', 'HCC1806', 'KARPAS-620']"
+DUXAP10--AL512310.2,5,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc']","['SW48', 'HCC1187', 'COLO-741', 'HCC1187', 'SW1573']"
+AC106741.1--AC106729.1,5,"['ccle', 'ccle', 'gcsi', 'gcsi', 'gdsc']","['KARPAS-620', 'COLO-741', 'KARPAS-620', 'U-266', 'KARPAS-620']"
+PTMA--NCL,5,"['ccle', 'ccle', 'ccle', 'ccle', 'gcsi']","['NCI-H510A', 'SW620', 'LS-180', 'HT55', 'SW48']"
+USP22--RN7SL2,4,"['gdsc', 'gdsc', 'gdsc', 'gdsc']","['UACC-812', 'MDA-MB-361', 'DU-145', 'SW1116']"
+MTMR3--APOH,4,"['ccle', 'gcsi', 'gdsc', 'nci60']","['HT-29', 'HT-29', 'HT-29', 'HT-29']"
+MGRN1--C16orf96,4,"['ccle', 'gcsi', 'gdsc', 'nci60']","['HCT-15', 'HCT-15', 'HCT-15', 'HCT-15']"
+COMMD10--AP3S1,4,"['ccle', 'gcsi', 'gdsc', 'nci60']","['HCT-116', 'HCT-116', 'HCT-116', 'HCT-116']"
+PANK2--MAVS,4,"['ccle', 'gcsi', 'gdsc', 'nci60']","['HCT-116', 'HCT-116', 'HCT-116', 'HCT-116']"
+RTRAF--SLC25A21,4,"['ccle', 'gcsi', 'gdsc', 'nci60']","['DU-145', 'DU-145', 'DU-145', 'DU-145']"
+UBE2L3--KRAS,4,"['ccle', 'gcsi', 'gdsc', 'nci60']","['DU-145', 'DU-145', 'DU-145', 'DU-145']"
+LDLR--RPL31P11,4,"['ccle', 'gcsi', 'gdsc', 'nci60']","['DU-145', 'DU-145', 'DU-145', 'DU-145']"
+CASC19--AC018714.2,4,"['ccle', 'ccle', 'gcsi', 'gdsc']","['HCT-15', 'HT-115', 'HT-115', 'HT-115']"
+ZNF654--HMGB2,4,"['ccle', 'ccle', 'ccle', 'ccle']","['SU-DHL-10', 'HCT-15', 'Set-2', 'KU812']"
+AL033530.1--AL691520.1,3,"['gcsi', 'gdsc', 'gdsc']","['KARPAS-620', 'NCI-H510A', 'KARPAS-620']"
+AL139042.1--CNR1,3,"['gcsi', 'gcsi', 'gdsc']","['MDA-MB-361', 'KARPAS-620', 'MDA-MB-361']"
+YAF2--RYBP,3,"['gcsi', 'gcsi', 'gcsi']","['SR', 'SU-DHL-6', 'KU812']"
+USP32--CWC25,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+DDX5--DEPTOR,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+DDX5--AP005717.2,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+PRKDC--AC111149.2,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+MYO18A--AF228727.1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+BCAS3--HOXB9,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+TAOK1--PCGF2,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+PLEC--ENPP2,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+PPM1D--TRAPPC9,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+TRPS1--LASP1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+HYLS1--TIMM23,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+DDX5--AC233699.1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+CENPO--RAB10,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+HOXC6--AC023794.1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+PPP1R16A--ZFPM2-AS1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+TAOK1--LINC02071,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+SRCIN1--AC233699.1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+NFE2L1--TOP1MT,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+ZMYM4--OPRD1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+AC068025.2--PCGF2,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+PPM1D--RAD54B,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+ZFPM2-AS1--SLC13A2,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+BCAS3--TMEM71,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+AC124319.1--TACC1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+ERBB2--BCAS3,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+USP32--SMURF2,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+PHF20L1--AC068413.1,3,"['ccle', 'gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30', 'ZR-75-30']"
+MEGF6--PLCH2,3,"['ccle', 'gcsi', 'gdsc']","['YAPC', 'YAPC', 'YAPC']"
+VEGFA--KIF6,3,"['ccle', 'gcsi', 'gdsc']","['YAPC', 'YAPC', 'YAPC']"
+SIM2--RIPPLY3,3,"['ccle', 'gcsi', 'gdsc']","['YAPC', 'YAPC', 'YAPC']"
+TFEB--TRERF1,3,"['ccle', 'gcsi', 'gdsc']","['YAPC', 'YAPC', 'YAPC']"
+TP53BP1--PSMA4,3,"['ccle', 'gcsi', 'gdsc']","['WSU-DLCL2', 'WSU-DLCL2', 'WSU-DLCL2']"
+HDGF--S100A10,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+WIPF2--ERBB2,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+PRPF3--SRGAP2,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+RRNAD1--CTSS,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+LASP1--CSF3,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+PPP1R12B--SNX27,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+NBPF26--AC239809.1,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+WARS2--AKT3,3,"['ccle', 'gcsi', 'gdsc']","['UACC-812', 'UACC-812', 'UACC-812']"
+COX16--TMEM106B,3,"['ccle', 'gcsi', 'gdsc']","['U-266', 'U-266', 'U-266']"
+ARFIP1--FNDC3B,3,"['ccle', 'gcsi', 'gdsc']","['U-266', 'U-266', 'U-266']"
+FNDC3B--ARFIP1,3,"['ccle', 'gcsi', 'gdsc']","['U-266', 'U-266', 'U-266']"
+FO393400.1--NOL4L,3,"['ccle', 'gcsi', 'gdsc']","['Set-2', 'Set-2', 'Set-2']"
+USP12--LINC02340,3,"['ccle', 'gcsi', 'gdsc']","['SW948', 'SW948', 'SW948']"
+RBM12B--RAD54B,3,"['ccle', 'gcsi', 'gdsc']","['SW837', 'SW837', 'SW837']"
+ANKRD13C--PTGER3,3,"['ccle', 'gcsi', 'gdsc']","['SW837', 'SW837', 'SW837']"
+SPRED2--RAB1A,3,"['ccle', 'gcsi', 'gdsc']","['SW837', 'SW837', 'SW837']"
+AC124319.1--BAIAP2,3,"['ccle', 'gcsi', 'gdsc']","['SW780', 'SW780', 'SW780']"
+FGFR3--BAIAP2L1,3,"['ccle', 'gcsi', 'gdsc']","['SW780', 'SW780', 'SW780']"
+GSN--NMRK1,3,"['ccle', 'gcsi', 'gdsc']","['SW780', 'SW780', 'SW780']"
+RABGAP1--PCSK5,3,"['ccle', 'gcsi', 'gdsc']","['SW780', 'SW780', 'SW780']"
+CCDC18-AS1--EVI5,3,"['ccle', 'gcsi', 'gdsc']","['SW780', 'SW780', 'SW780']"
+CDH13--AC073968.2,3,"['ccle', 'gcsi', 'gdsc']","['SW620', 'SW620', 'SW620']"
+NSD1--ZNF346,3,"['ccle', 'gcsi', 'gdsc']","['SW620', 'SW620', 'SW620']"
+ARNTL2--AC010197.1,3,"['ccle', 'gcsi', 'gdsc']","['SW620', 'SW620', 'SW620']"
+USP45--FAXC,3,"['ccle', 'gcsi', 'gdsc']","['SW620', 'SW620', 'SW620']"
+ARRDC1--EHMT1,3,"['ccle', 'gcsi', 'gdsc']","['SW48', 'SW48', 'SW48']"
+DNAJC3--VWA8,3,"['ccle', 'gcsi', 'gdsc']","['SW403', 'SW403', 'SW403']"
+NEAT1--LTBP3,3,"['ccle', 'gcsi', 'gdsc']","['SW1573', 'SW1573', 'SW1573']"
+TCF7L1--TMSB10,3,"['ccle', 'gcsi', 'gdsc']","['SW1573', 'SW1573', 'SW1573']"
+LARP4B--TSPAN33,3,"['ccle', 'gcsi', 'gdsc']","['SW1573', 'SW1573', 'SW1573']"
+SMURF2--DDX5,3,"['ccle', 'gcsi', 'gdsc']","['SW1573', 'SW1573', 'SW1573']"
+LINC02643--NEBL,3,"['ccle', 'gcsi', 'gdsc']","['SW1573', 'SW1573', 'SW1573']"
+ME2--DCC,3,"['ccle', 'gcsi', 'gdsc']","['SW1573', 'SW1573', 'SW1573']"
+IL1RAPL1--AC005185.1,3,"['ccle', 'gcsi', 'gdsc']","['SW1573', 'SW1573', 'SW1573']"
+LRR1--RPL36AL,3,"['ccle', 'gcsi', 'gdsc']","['SW1463', 'SW1463', 'SW1463']"
+RPL36AL--LRR1,3,"['ccle', 'gcsi', 'gdsc']","['SW1463', 'SW1463', 'SW1463']"
+ATP5F1A--SNTG1,3,"['ccle', 'gcsi', 'gdsc']","['SW1463', 'SW1463', 'SW1463']"
+ARHGAP35--VRK3,3,"['ccle', 'gcsi', 'gdsc']","['SW1463', 'SW1463', 'SW1463']"
+HNF4A--R3HDML,3,"['ccle', 'gcsi', 'gdsc']","['SUIT-2', 'SUIT-2', 'SUIT-2']"
+TUBA1C--ENDOV,3,"['ccle', 'gcsi', 'gdsc']","['SUIT-2', 'SUIT-2', 'SUIT-2']"
+ROCK2--E2F6,3,"['ccle', 'gcsi', 'gdsc']","['SUIT-2', 'SUIT-2', 'SUIT-2']"
+PVT1--ZCCHC7,3,"['ccle', 'gcsi', 'gdsc']","['SU-DHL-6', 'SU-DHL-6', 'SU-DHL-6']"
+POU2F2--FRG1KP,3,"['ccle', 'gcsi', 'gdsc']","['SU-DHL-6', 'SU-DHL-6', 'SU-DHL-6']"
+ICMT--SZRD1,3,"['ccle', 'gcsi', 'gdsc']","['SU-DHL-6', 'SU-DHL-6', 'SU-DHL-6']"
+THOC2--MTSS1,3,"['ccle', 'gcsi', 'gdsc']","['SU-DHL-10', 'SU-DHL-10', 'SU-DHL-10']"
+NPM1--ALK,3,"['ccle', 'gcsi', 'gdsc']","['SR', 'SR', 'SR']"
+APIP--SLC1A2,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+CEMIP--AC015712.1,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+CYFIP1--USP3,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+CHD2--STARD9,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+RAB14--C5,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+FAN1--CHRFAM7A,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+LMNTD2--SLC1A2,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+PAQR5--IQCH,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+SPG11--DAPK2,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+SLC33A1--PLCH1,3,"['ccle', 'gcsi', 'gdsc']","['SNU-C1', 'SNU-C1', 'SNU-C1']"
+MACF1--HEYL,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+TWSG1--PIK3C3,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+PPP4R3A--HEATR3,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+RAP2A--PCDH9-AS1,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+PTK2--PKHD1L1,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+JADE2--UBE2B,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+HDAC2--BEND3,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+BAZ1A--SFTA3,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+CAPZB--LINC02241,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+NFE2L1--SKAP1,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+PKHD1L1--ESRP1,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+XRCC6--ACO2,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+ARHGAP23--MRPL45,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+R3HDM2--DCTN2,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+ELOVL6--ENPEP,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+PDS5B--AL159156.1,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+PDXDC2P--AC009060.1,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+KCNQ3--PCAT1,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+FBXL3--TRPC4,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+TRIO--LINC02142,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+VPS8--AGRN,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+CYLD--KLF3,3,"['ccle', 'gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A', 'NCI-H510A']"
+AC139887.1--CPLX1,3,"['ccle', 'gcsi', 'gdsc']","['MDST8', 'MDST8', 'MDST8']"
+EZR--OSTCP1,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+TMEM104--CDK12,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+BRIP1--VMP1,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+TANC2--PSMD12,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+SUPT4H1--CEP112,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+MAP1LC3B--ZNF821,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+TOX3--GNAO1,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+TTC6--MIPOL1,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+DDX42--PITPNC1,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+CDYL--CDKAL1,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+CMTM4--AKR1C4,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+MTMR4--CUEDC1,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+TANC2--MTMR4,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+RAB22A--PHACTR3,3,"['ccle', 'gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361', 'MDA-MB-361']"
+GPHN--MPP5,3,"['ccle', 'gcsi', 'gdsc']","['LS-180', 'LS-180', 'LS-180']"
+UPF3A--CDC16,3,"['ccle', 'gcsi', 'gdsc']","['KU812', 'KU812', 'KU812']"
+BCR--ABL1,3,"['ccle', 'gcsi', 'gdsc']","['KU812', 'KU812', 'KU812']"
+ABL1--BCR,3,"['ccle', 'gcsi', 'gdsc']","['KU812', 'KU812', 'KU812']"
+CDK13--SUGCT,3,"['ccle', 'gcsi', 'gdsc']","['KU812', 'KU812', 'KU812']"
+SMG1P3--GNPTG,3,"['ccle', 'gcsi', 'gdsc']","['KNS-62', 'KNS-62', 'KNS-62']"
+HSD17B4--TNFAIP8,3,"['ccle', 'gcsi', 'gdsc']","['KNS-62', 'KNS-62', 'KNS-62']"
+LPP--AC022498.1,3,"['ccle', 'gcsi', 'gdsc']","['KNS-62', 'KNS-62', 'KNS-62']"
+SMARCC1--PACS2,3,"['ccle', 'gcsi', 'gdsc']","['KARPAS-620', 'KARPAS-620', 'KARPAS-620']"
+TBC1D5--PLCL2-AS1,3,"['ccle', 'gcsi', 'gdsc']","['KARPAS-620', 'KARPAS-620', 'KARPAS-620']"
+MAP7--MAP3K5,3,"['ccle', 'gcsi', 'gdsc']","['HT55', 'HT55', 'HT55']"
+RABEP1--ALG14,3,"['ccle', 'gcsi', 'gdsc']","['HT55', 'HT55', 'HT55']"
+USP6NL--UPF2,3,"['ccle', 'gcsi', 'gdsc']","['HT-29', 'HT-29', 'HT-29']"
+ABHD12--PYGB,3,"['ccle', 'gcsi', 'gdsc']","['HT-29', 'HT-29', 'HT-29']"
+ATP2C1--LINC01208,3,"['ccle', 'gcsi', 'gdsc']","['HT-29', 'HT-29', 'HT-29']"
+FAM120B--PRKN,3,"['ccle', 'gcsi', 'gdsc']","['HT-29', 'HT-29', 'HT-29']"
+AC068658.1--LINC01184,3,"['ccle', 'gcsi', 'gdsc']","['HT-115', 'HT-115', 'HT-115']"
+PACSIN2--TTLL1,3,"['ccle', 'gcsi', 'gdsc']","['HT-115', 'HT-115', 'HT-115']"
+FLOT1--LINC00243,3,"['ccle', 'gcsi', 'gdsc']","['HT-115', 'HT-115', 'HT-115']"
+ST14--LINC01184,3,"['ccle', 'gcsi', 'gdsc']","['HT-115', 'HT-115', 'HT-115']"
+SLC12A2--CCDC192,3,"['ccle', 'gcsi', 'gdsc']","['HT-115', 'HT-115', 'HT-115']"
+CREBL2--FAM234B,3,"['ccle', 'gcsi', 'gdsc']","['HT-115', 'HT-115', 'HT-115']"
+GPRC5A--RPL13AP20,3,"['ccle', 'gcsi', 'gdsc']","['HT-115', 'HT-115', 'HT-115']"
+NT5DC1--FRK,3,"['ccle', 'gcsi', 'gdsc']","['HCT-15', 'HCT-15', 'HCT-15']"
+UBA2--GPI,3,"['ccle', 'gcsi', 'gdsc']","['HCT-15', 'HCT-15', 'HCT-15']"
+GGA3--NUP85,3,"['ccle', 'gcsi', 'gdsc']","['HCT-15', 'HCT-15', 'HCT-15']"
+FRK--NT5DC1,3,"['ccle', 'gcsi', 'gdsc']","['HCT-15', 'HCT-15', 'HCT-15']"
+PRMT3--RBM4B,3,"['ccle', 'gcsi', 'gdsc']","['HCT-15', 'HCT-15', 'HCT-15']"
+MBTD1--UTP18,3,"['ccle', 'gcsi', 'gdsc']","['HCT-15', 'HCT-15', 'HCT-15']"
+PLAUR--LYPD5,3,"['ccle', 'gcsi', 'gdsc']","['HCT-15', 'HCT-15', 'HCT-15']"
+TCF7L2--AL158212.1,3,"['ccle', 'gcsi', 'gdsc']","['HCT-116', 'HCT-116', 'HCT-116']"
+SPAG9--MBTD1,3,"['ccle', 'gcsi', 'gdsc']","['HCT-116', 'HCT-116', 'HCT-116']"
+RFT1--UQCRC2,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+TAX1BP1--AHCY,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+CDCA5--LINC01986,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+AC010642.2--DPRX,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+POLA2--CAPN1,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+WNK1--CWC22,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+SMURF2--CEP112,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+LDLRAD3--TCP11L1,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+RPA1--SMYD4,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+FAM222B--SEZ6,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+TXNDC11--LITAF,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+BABAM2--DPYSL5,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+PTPRJ--LPXN,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+GALNT18--SBF2,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+GPR39--NCKAP5,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+HBEGF--AC008438.2,3,"['ccle', 'gcsi', 'gdsc']","['HCC1806', 'HCC1806', 'HCC1806']"
+CTNND1--SMTNL1,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+MIA2--GEMIN2,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+PUM1--TRERF1,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+AGPAT5--MCPH1,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+KMT2E--LHFPL3,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+PPFIBP1--SMCO2,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+CTCF--SCUBE2,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+POFUT1--TM9SF4,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+SEC22B--NOTCH2,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+ALDOA--SHISA9,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+ANKRD40--ANKRD40CL,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+KLK5--CDH23,3,"['ccle', 'gcsi', 'gdsc']","['HCC1187', 'HCC1187', 'HCC1187']"
+CASP7--PLEKHS1,3,"['ccle', 'gcsi', 'gdsc']","['DU-145', 'DU-145', 'DU-145']"
+AC245140.2--TKTL1,3,"['ccle', 'gcsi', 'gdsc']","['DU-145', 'DU-145', 'DU-145']"
+LDLR--AL451067.1,3,"['ccle', 'gcsi', 'gdsc']","['DU-145', 'DU-145', 'DU-145']"
+ST7--BAIAP2L1,3,"['ccle', 'gcsi', 'gdsc']","['COLO-741', 'COLO-741', 'COLO-741']"
+FHOD3--DLGAP1,3,"['ccle', 'gcsi', 'gdsc']","['COLO-741', 'COLO-741', 'COLO-741']"
+MAFK--SLC29A4,3,"['ccle', 'gcsi', 'gdsc']","['COLO-741', 'COLO-741', 'COLO-741']"
+MYO1D--ASIC2,3,"['ccle', 'gcsi', 'gdsc']","['COLO-741', 'COLO-741', 'COLO-741']"
+SLC29A4--TRRAP,3,"['ccle', 'gcsi', 'gdsc']","['COLO-741', 'COLO-741', 'COLO-741']"
+DPP3--SLC46A1,3,"['ccle', 'gcsi', 'gdsc']","['C2BBe1', 'C2BBe1', 'C2BBe1']"
+BRCA2--N4BP2L2,3,"['ccle', 'gcsi', 'gdsc']","['C2BBe1', 'C2BBe1', 'C2BBe1']"
+PEX14--PTPN14,3,"['ccle', 'gcsi', 'gdsc']","['C2BBe1', 'C2BBe1', 'C2BBe1']"
+AP003327.2--AP003500.1,3,"['ccle', 'gcsi', 'gdsc']","['C2BBe1', 'C2BBe1', 'C2BBe1']"
+PRKCH--AL355916.1,3,"['ccle', 'gcsi', 'gcsi']","['ZR-75-30', 'HCT-15', 'ZR-75-30']"
+CMC2--ARLNC1,3,"['ccle', 'gcsi', 'gcsi']","['SW620', 'SW620', 'HT55']"
+LINC00511--SLC39A11,3,"['ccle', 'gcsi', 'gcsi']","['HCT-116', 'SW1463', 'HCT-116']"
+OR51S1--TP53I11,3,"['ccle', 'gcsi', 'gcsi']","['HCC1187', 'LS-180', 'HCC1187']"
+FSIP1--AC013652.1,2,"['gcsi', 'gdsc']","['ZR-75-30', 'ZR-75-30']"
+CAMTA1--MRPS18A,2,"['gcsi', 'gdsc']","['YAPC', 'YAPC']"
+TMEM120B--ORAI1,2,"['gcsi', 'gdsc']","['YAPC', 'YAPC']"
+SWAP70--WEE1,2,"['gcsi', 'gdsc']","['YAPC', 'YAPC']"
+AKAP2--ACTG1,2,"['gcsi', 'gdsc']","['WSU-DLCL2', 'WSU-DLCL2']"
+SCLT1--LINC02428,2,"['gcsi', 'gdsc']","['WSU-DLCL2', 'WSU-DLCL2']"
+HACD2--HIP1,2,"['gcsi', 'gdsc']","['WSU-DLCL2', 'WSU-DLCL2']"
+CHP1--AC020779.2,2,"['gcsi', 'gdsc']","['WSU-DLCL2', 'WSU-DLCL2']"
+PHF12--AC005562.1,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+AKT3--P2RX5-TAX1BP3,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+C1orf21--AL136372.2,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+GPC6--PCDH9-AS2,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+ARID1A--WDTC1,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+MLLT6--PLXDC1,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+GTF2IP20--SUSD4,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+GRB7--AL035410.2,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+SUZ12P1--MYO18A,2,"['gcsi', 'gdsc']","['UACC-812', 'UACC-812']"
+GAB1--AC097658.2,2,"['gcsi', 'gdsc']","['U-266', 'U-266']"
+AC097374.1--CYP4F32P,2,"['gcsi', 'gdsc']","['U-266', 'U-266']"
+MED28--AC097512.1,2,"['gcsi', 'gdsc']","['U-266', 'U-266']"
+GAB1--USP38,2,"['gcsi', 'gdsc']","['U-266', 'U-266']"
+MIR4713HG--GLDN,2,"['gcsi', 'gdsc']","['U-266', 'HCT-116']"
+TAB2--PPP1R14C,2,"['gcsi', 'gdsc']","['SW837', 'SW837']"
+USP54--VSTM4,2,"['gcsi', 'gdsc']","['SW780', 'SW780']"
+RBM6--DOCK3,2,"['gcsi', 'gdsc']","['SW780', 'SW780']"
+PPP1R12A--AC027288.3,2,"['gcsi', 'gdsc']","['SW780', 'SW780']"
+FCHSD2--AP002381.2,2,"['gcsi', 'gdsc']","['SW780', 'SW780']"
+PRSS3--AL356489.4,2,"['gcsi', 'gdsc']","['SW403', 'SW403']"
+TNIP2--NOP14-AS1,2,"['gcsi', 'gdsc']","['SW403', 'SW403']"
+LRCH1--UBE2L5,2,"['gcsi', 'gdsc']","['SW403', 'SW403']"
+CLTC--VMP1,2,"['gcsi', 'gdsc']","['SW1573', 'SW1573']"
+NAP1L1--AC078923.1,2,"['gcsi', 'gdsc']","['SW1463', 'SW1463']"
+VRK3--LIPE-AS1,2,"['gcsi', 'gdsc']","['SW1463', 'SW1463']"
+UBE2N--AC124947.1,2,"['gcsi', 'gdsc']","['SW1463', 'SW1463']"
+SUPT20H--CHMP1B2P,2,"['gcsi', 'gdsc']","['SW1463', 'SW1463']"
+AC108865.1--AC110772.2,2,"['gcsi', 'gdsc']","['SW1463', 'SW1463']"
+ZNF462--SMC2,2,"['gcsi', 'gdsc']","['SW1116', 'SW1116']"
+AC104035.1--SLCO3A1,2,"['gcsi', 'gdsc']","['SW1116', 'SW1116']"
+PARGP1--MARCH8,2,"['gcsi', 'gdsc']","['SW1116', 'SW1116']"
+MCUB--TUBA1C,2,"['gcsi', 'gdsc']","['SUIT-2', 'SUIT-2']"
+ARHGEF40--DHX30,2,"['gcsi', 'gdsc']","['SUIT-2', 'SUIT-2']"
+MCUB--TUBA1A,2,"['gcsi', 'gdsc']","['SUIT-2', 'SUIT-2']"
+REV3L--TRERF1,2,"['gcsi', 'gdsc']","['SUIT-2', 'SUIT-2']"
+RNF41--AC121758.1,2,"['gcsi', 'gdsc']","['SUIT-2', 'SUIT-2']"
+AKAP13--AC044860.3,2,"['gcsi', 'gdsc']","['SUIT-2', 'SUIT-2']"
+CBWD2--NPM1P27,2,"['gcsi', 'gdsc']","['SR', 'SR']"
+CIRBP-AS1--SBNO2,2,"['gcsi', 'gdsc']","['SR', 'SR']"
+TBC1D3D--SMYD3,2,"['gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A']"
+TMC5--TMC7,2,"['gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A']"
+AC069114.1--LINC01899,2,"['gcsi', 'gdsc']","['NCI-H510A', 'NCI-H510A']"
+NBEAP1--IGH@-ext,2,"['gcsi', 'gdsc']","['MDST8', 'MDST8']"
+STRADA--MED13,2,"['gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361']"
+MARVELD3--GALNS,2,"['gcsi', 'gdsc']","['MDA-MB-361', 'MDA-MB-361']"
+DMPK--RSPH6A,2,"['gcsi', 'gdsc']","['HT-115', 'HT-115']"
+CFD--LINC01836,2,"['gcsi', 'gdsc']","['HT-115', 'HT-115']"
+FYN--KRT18P65,2,"['gcsi', 'gdsc']","['HCT-15', 'HCT-15']"
+HS6ST2--GPC3,2,"['gcsi', 'gdsc']","['HCC1806', 'HCC1806']"
+REEP5--MCC,2,"['gcsi', 'gdsc']","['HCC1806', 'HCC1806']"
+MTDH--AP003465.1,2,"['gcsi', 'gdsc']","['HCC1806', 'HCC1806']"
+RIF1--PKD1L1,2,"['gcsi', 'gdsc']","['HCC1806', 'HCC1806']"
+WNK1--USP31,2,"['gcsi', 'gdsc']","['HCC1806', 'HCC1806']"
+HIRA--ARVCF,2,"['gcsi', 'gdsc']","['HCC1806', 'HCC1806']"
+LINC01535--EXOSC10,2,"['gcsi', 'gdsc']","['HCC1187', 'HCC1187']"
+SNHG3--FP236383.1,2,"['gcsi', 'gdsc']","['HCC1187', 'HCC1187']"
+AC211476.5--CCDC146,2,"['gcsi', 'gdsc']","['COLO-741', 'HCT-116']"
+BRI3BP--UBC,2,"['gcsi', 'gcsi']","['UACC-812', 'WSU-DLCL2']"
+AC244102.4--GABRA3,2,"['gcsi', 'gcsi']","['SW837', 'NCI-H510A']"
+DUXAP9--AL512310.2,2,"['gcsi', 'gcsi']","['KARPAS-620', 'SW48']"
+PDP2--AC124319.1,2,"['ccle', 'gdsc']","['ZR-75-30', 'ZR-75-30']"
+PGAP3--CCN3,2,"['ccle', 'gdsc']","['ZR-75-30', 'ZR-75-30']"
+LMO7--SCEL,2,"['ccle', 'gdsc']","['UACC-812', 'UACC-812']"
+AL611929.1--AFDN,2,"['ccle', 'gdsc']","['SW948', 'SW948']"
+RPSAP52--HMGA2,2,"['ccle', 'gdsc']","['RKO', 'RKO']"
+MMP24OS--EDEM2,2,"['ccle', 'gdsc']","['HT55', 'HT55']"
+ZYG11B--SCP2,2,"['ccle', 'gdsc']","['HT-29', 'HT-29']"
+CCZ1--OCM,2,"['ccle', 'gdsc']","['HT-115', 'HT-115']"
+EIF4B--KRT18,2,"['ccle', 'gdsc']","['HT-115', 'HT-115']"
+NT5DC3--TTC41P,2,"['ccle', 'gdsc']","['HCT-15', 'HCT-15']"
+PRRT3-AS1--TTLL3,2,"['ccle', 'gdsc']","['HCC1806', 'HCC1806']"
+CD151--DRD4,2,"['ccle', 'gdsc']","['HCC1806', 'HCC1806']"
+CCDC57--CSNK1D,2,"['ccle', 'gdsc']","['HCC1806', 'HCC1806']"
+PPP1R13L--PVR,2,"['ccle', 'gdsc']","['HCC1806', 'HCC1806']"
+ARHGEF10L--PADI6,2,"['ccle', 'gdsc']","['HCC1806', 'HCC1806']"
+AC027682.4--AMPD3,2,"['ccle', 'gdsc']","['HCC1187', 'HCC1187']"
+ARHGAP10--EDNRA,2,"['ccle', 'gdsc']","['COLO-741', 'COLO-741']"
+PVT1--AC108681.1,2,"['ccle', 'gcsi']","['WSU-DLCL2', 'WSU-DLCL2']"
+SRGAP2C--PRPF3,2,"['ccle', 'gcsi']","['UACC-812', 'UACC-812']"
+PHF12--LRRC37BP1,2,"['ccle', 'gcsi']","['UACC-812', 'UACC-812']"
+PPIEL--INPP5B,2,"['ccle', 'gcsi']","['NCI-H510A', 'NCI-H510A']"
+UNC45A--DYRK1A,2,"['ccle', 'gcsi']","['NCI-H510A', 'NCI-H510A']"
+LRP12--AC022973.2,2,"['ccle', 'gcsi']","['NCI-H510A', 'NCI-H510A']"
+LINC02241--AL669831.3,2,"['ccle', 'gcsi']","['NCI-H510A', 'NCI-H510A']"
+RAB8B--LINC02568,2,"['ccle', 'gcsi']","['MDST8', 'MDST8']"
+MED13--BRIP1,2,"['ccle', 'gcsi']","['MDA-MB-361', 'MDA-MB-361']"
+PPP2R2C--ADD1,2,"['ccle', 'gcsi']","['MDA-MB-361', 'MDA-MB-361']"
+TANGO6--CES4A,2,"['ccle', 'gcsi']","['MDA-MB-361', 'MDA-MB-361']"
+PRKAG2--LINC01006,2,"['ccle', 'gcsi']","['COLO-741', 'COLO-741']"
+PRKRIP1--ST7,2,"['ccle', 'gcsi']","['COLO-741', 'COLO-741']"
+GAS6--RASA3,1,['nci60'],['SR']
+MGAT5--IGL@-ext,1,['nci60'],['SR']
+PCGF2--ZNF652,1,['gdsc'],['ZR-75-30']
+BCAS3--COL14A1,1,['gdsc'],['ZR-75-30']
+BCAS3--HOXB8,1,['gdsc'],['ZR-75-30']
+ZNF652--NDRG1,1,['gdsc'],['ZR-75-30']
+GLO1--USP49,1,['gdsc'],['YAPC']
+PRSS23--AC021504.1,1,['gdsc'],['YAPC']
+B3GALT5--AF064860.1,1,['gdsc'],['YAPC']
+OTULIN--MYO5B,1,['gdsc'],['YAPC']
+MRPS18A--HCP5,1,['gdsc'],['YAPC']
+CHP1--MYO9A,1,['gdsc'],['WSU-DLCL2']
+AC005332.4--LRRC37A2,1,['gdsc'],['WSU-DLCL2']
+SRGAP2--PRPF3,1,['gdsc'],['UACC-812']
+OSMR--NAV3,1,['gdsc'],['UACC-812']
+SDCBP--ASB12,1,['gdsc'],['UACC-812']
+LMO7-AS1--TPX2,1,['gdsc'],['UACC-812']
+ABI2--BMP10,1,['gdsc'],['UACC-812']
+CPAMD8--HAUS8,1,['gdsc'],['UACC-812']
+SPATA13--CERNA1,1,['gdsc'],['UACC-812']
+CDC6--IKZF3,1,['gdsc'],['UACC-812']
+USP22--RN7SL5P,1,['gdsc'],['UACC-812']
+TMEM212-AS1--PLD1,1,['gdsc'],['U-266']
+BRWD1--FP236383.4,1,['gdsc'],['Set-2']
+AC121154.1--AC108075.1,1,['gdsc'],['SW780']
+AC008875.3--SELENOP,1,['gdsc'],['SW1573']
+TCF7L1--AC022210.2,1,['gdsc'],['SW1573']
+PMS2P11--CCDC146,1,['gdsc'],['SW1573']
+AC025539.1--AC005699.1,1,['gdsc'],['SW1116']
+FNBP4--NUP160,1,['gdsc'],['SUIT-2']
+AHCTF1--ZNF670-ZNF695,1,['gdsc'],['SUIT-2']
+MIR1204--ZCCHC7,1,['gdsc'],['SU-DHL-6']
+ZCCHC7--CBWD5,1,['gdsc'],['SU-DHL-6']
+NUS1P1--AC114501.3,1,['gdsc'],['SU-DHL-6']
+CBWD2--FBXO10,1,['gdsc'],['SU-DHL-6']
+FBXO10--CBWD5,1,['gdsc'],['SU-DHL-6']
+LRP3--IGL@-ext,1,['gdsc'],['SU-DHL-5']
+MFSD14B--AL691447.2,1,['gdsc'],['SU-DHL-5']
+IQCH--FAM169B,1,['gdsc'],['SNU-C1']
+CD44--PDHX,1,['gdsc'],['SNU-C1']
+IQSEC1--WNT7A,1,['gdsc'],['NCI-H510A']
+RPL13A--FLT3LG,1,['gdsc'],['KU812']
+GNPTG--MRTFB,1,['gdsc'],['KNS-62']
+BCL2L11--LINC01943,1,['gdsc'],['KARPAS-620']
+MRPL45P2--NRDC,1,['gdsc'],['HT55']
+VAPB--APCDD1L-DT,1,['gdsc'],['HT55']
+AC068658.1--SLC12A2,1,['gdsc'],['HT-115']
+FCHSD2--LINC01184,1,['gdsc'],['HT-115']
+PCM1--AC027117.1,1,['gdsc'],['HT-115']
+NCOA3--SPINT1,1,['gdsc'],['HCT-15']
+FAM172A--NR2F1-AS1,1,['gdsc'],['HCT-116']
+GNPTAB--WASHC3,1,['gdsc'],['HCT-116']
+ASAP2--AC093904.2,1,['gdsc'],['HCC1806']
+ZC3H7B--ERBB3,1,['gdsc'],['HCC1806']
+TPX2--COX4I2,1,['gdsc'],['HCC1806']
+AL033504.1--SASH1,1,['gdsc'],['HCC1806']
+CHEK2--TTC28,1,['gdsc'],['HCC1806']
+EGFR--CUX1,1,['gdsc'],['COLO-741']
+KRT8--RPLP0,1,['gdsc'],['CL-40']
+FOXP4-AS1--CCND3,1,['gcsi'],['YAPC']
+PI4KA--AL592464.3,1,['gcsi'],['YAPC']
+ILRUN--AL109615.3,1,['gcsi'],['YAPC']
+GNG12-AS1--SERPINC1,1,['gcsi'],['YAPC']
+CCND3--WDR62,1,['gcsi'],['YAPC']
+AC005993.1--RGS6,1,['gcsi'],['YAPC']
+AC114498.2--RPL13A,1,['gcsi'],['WSU-DLCL2']
+MAGI3--SUZ12P1,1,['gcsi'],['UACC-812']
+KIF18A--KRTAP5-2,1,['gcsi'],['UACC-812']
+BMP7--AL109806.2,1,['gcsi'],['UACC-812']
+ANP32E--IL24,1,['gcsi'],['UACC-812']
+WIPF2--TRPV1,1,['gcsi'],['UACC-812']
+ATAD5--ARHGAP23,1,['gcsi'],['UACC-812']
+SLX4IP--ASIP,1,['gcsi'],['UACC-812']
+EFCAB5--AC005562.1,1,['gcsi'],['UACC-812']
+LINC02384--MDM1,1,['gcsi'],['U-266']
+EIF2AK2--PRKD3,1,['gcsi'],['U-266']
+AC009271.1--AC009271.2,1,['gcsi'],['U-266']
+FBXL13--AC105052.5,1,['gcsi'],['U-266']
+AQR--RTL6,1,['gcsi'],['U-266']
+LINC00508--AC025160.1,1,['gcsi'],['U-266']
+RASA4--ZHX1-C8orf76,1,['gcsi'],['U-266']
+AVL9--ZNRF2P1,1,['gcsi'],['U-266']
+BCKDHB--AL359715.1,1,['gcsi'],['Set-2']
+MAGI3--AL596275.2,1,['gcsi'],['SW837']
+SPRED2--AC007318.2,1,['gcsi'],['SW837']
+ZNF488--CTNNA3,1,['gcsi'],['SW780']
+CTNNA3--LIPK,1,['gcsi'],['SW780']
+PSMD11--RHOT1,1,['gcsi'],['SW780']
+FHOD3--SLC25A4,1,['gcsi'],['SW780']
+ACTN4--EEF1A1,1,['gcsi'],['SW780']
+ARNTL2--AC010185.1,1,['gcsi'],['SW620']
+TSKU--ACER3,1,['gcsi'],['SW48']
+PTMA--HSP90AB1,1,['gcsi'],['SW48']
+PSMD1--CAB39,1,['gcsi'],['SW48']
+ACTB--EEF2,1,['gcsi'],['SW48']
+TXNRD1--CHST11,1,['gcsi'],['SW1573']
+RF01956--LTBP3,1,['gcsi'],['SW1573']
+EEF1A1--CANX,1,['gcsi'],['SW1463']
+AC124947.1--AC138123.1,1,['gcsi'],['SW1463']
+MAVS--CDC25B,1,['gcsi'],['SW1463']
+EEF2--RPL21,1,['gcsi'],['SW1463']
+KANSL1--AC126544.2,1,['gcsi'],['SW1463']
+CFAP69--CLDN12,1,['gcsi'],['SW1463']
+RPS6KB1--VMP1,1,['gcsi'],['SUIT-2']
+UTRN--AC016629.2,1,['gcsi'],['SUIT-2']
+FBXO10--CBWD1,1,['gcsi'],['SU-DHL-6']
+CBWD5--FBXO10,1,['gcsi'],['SU-DHL-6']
+AL135905.2--EEF1A1P5,1,['gcsi'],['SU-DHL-6']
+SENP3-EIF4A1--EIF5A,1,['gcsi'],['SU-DHL-6']
+CDKN1A--PTP4A1,1,['gcsi'],['SU-DHL-6']
+ABR--GEMIN4,1,['gcsi'],['SU-DHL-6']
+AL645568.1--TNFSF4,1,['gcsi'],['SU-DHL-6']
+ACTB--PTMA,1,['gcsi'],['SU-DHL-6']
+CFAP299--BMP3,1,['gcsi'],['SU-DHL-5']
+PGD--GNB1,1,['gcsi'],['SU-DHL-5']
+CBWD1--NPM1,1,['gcsi'],['SR']
+AL109761.1--CHODL,1,['gcsi'],['SR']
+RASSF7--AC100768.2,1,['gcsi'],['SNU-C1']
+AC133041.1--ENPP7P2,1,['gcsi'],['SNU-C1']
+RPL4--TSTA3,1,['gcsi'],['RKO']
+SNHG3--SNX5,1,['gcsi'],['RKO']
+AC060765.2--CNGB3,1,['gcsi'],['NCI-H510A']
+DUXAP9--AP000534.2,1,['gcsi'],['NCI-H510A']
+PCAT1--AC084116.3,1,['gcsi'],['NCI-H510A']
+AL139260.1--GRIK3,1,['gcsi'],['NCI-H510A']
+UHRF1--PIAS4,1,['gcsi'],['NCI-H510A']
+ADCY2--PRDM16,1,['gcsi'],['NCI-H510A']
+AL033527.2--BMP8B,1,['gcsi'],['NCI-H510A']
+MMP26--OR51E1,1,['gcsi'],['NCI-H510A']
+FAM49B--AC103833.2,1,['gcsi'],['NCI-H510A']
+AP003900.1--LINC01666,1,['gcsi'],['MDST8']
+AC009226.1--AC007879.3,1,['gcsi'],['MDST8']
+CCBE1--FAM168A,1,['gcsi'],['MDST8']
+DOCK1--CSMD1,1,['gcsi'],['MDA-MB-361']
+LRP6--STYK1,1,['gcsi'],['MDA-MB-361']
+CU104787.1--KMT2C,1,['gcsi'],['KARPAS-620']
+AC068446.2--AC060814.5,1,['gcsi'],['KARPAS-620']
+MAP4--SMARCC1,1,['gcsi'],['HT55']
+CCZ1B--OCM,1,['gcsi'],['HT-115']
+CCDC34--LGR4,1,['gcsi'],['HT-115']
+WIPF2--CASC3,1,['gcsi'],['HT-115']
+MAP2K6--SLC12A2,1,['gcsi'],['HT-115']
+TGFBR2--LINC01985,1,['gcsi'],['HT-115']
+ZNF503-AS1--LRMDA,1,['gcsi'],['HT-115']
+ADAP1--C7orf50,1,['gcsi'],['HT-115']
+ITGA6--CDC42SE2,1,['gcsi'],['HCC1806']
+TRIM44--PCMTD1,1,['gcsi'],['HCC1806']
+BTG3--CHODL-AS1,1,['gcsi'],['HCC1187']
+SPTSSA--EAPP,1,['gcsi'],['HCC1187']
+TMX2-CTNND1--SMTNL1,1,['gcsi'],['HCC1187']
+PTMS--PTMA,1,['gcsi'],['HCC1187']
+FOXP4--NCR2,1,['gcsi'],['HCC1187']
+SMURF1--CYP3A5,1,['gcsi'],['HCC1187']
+MAGEC1--AL031073.2,1,['gcsi'],['COLO-741']
+LRMDA--ZNF503-AS1,1,['gcsi'],['COLO-741']
+AFG1L--FOXO3,1,['gcsi'],['COLO-741']
+APC2--DAZAP1,1,['gcsi'],['COLO-741']
+RAB38--AP000676.5,1,['gcsi'],['COLO-741']
+SNHG3--SERINC2,1,['gcsi'],['CL-40']
+PEX14--AL929236.1,1,['gcsi'],['C2BBe1']
+PPP1R16A--SLC13A2,1,['ccle'],['ZR-75-30']
+CBX1--PCGF2,1,['ccle'],['ZR-75-30']
+PPM1D--TAOK1,1,['ccle'],['ZR-75-30']
+FBXW9--GBA2,1,['ccle'],['WSU-DLCL2']
+PXMP2--RPA1,1,['ccle'],['WSU-DLCL2']
+AGTPBP1--AL583827.1,1,['ccle'],['U-266']
+IGL@--PCBP1,1,['ccle'],['U-266']
+IGL-@-ext--EEF1A1,1,['ccle'],['U-266']
+ADGRE5--NOL6,1,['ccle'],['Set-2']
+AL138694.1--MYO16,1,['ccle'],['Set-2']
+AC123912.1--ZNF493,1,['ccle'],['Set-2']
+ZBTB5--UNC13B,1,['ccle'],['SW948']
+HAND2-AS1--LINC02269,1,['ccle'],['SW837']
+LIMK2--DEPDC5,1,['ccle'],['SW620']
+AL445647.1--MIR4500HG,1,['ccle'],['SW620']
+AC118549.1--GNAS,1,['ccle'],['SW48']
+ZBTB8OS--AARS,1,['ccle'],['SW48']
+RING1--RPL23A,1,['ccle'],['SW48']
+RPL27A--ATXN1,1,['ccle'],['SW48']
+KPNB1--SBDSP1,1,['ccle'],['SW48']
+RABL6--RPF1,1,['ccle'],['SW48']
+RF01957--LTBP3,1,['ccle'],['SW1573']
+TRIT1--LRRC59,1,['ccle'],['SW1463']
+MID1--ZFX,1,['ccle'],['SW1463']
+VASP--SNHG30,1,['ccle'],['SW1463']
+KANSL1--GPI,1,['ccle'],['SW1463']
+GALK2--PLEC,1,['ccle'],['SUIT-2']
+BCL2--IGH@-ext,1,['ccle'],['SU-DHL-6']
+CBWD1--FBXO10,1,['ccle'],['SU-DHL-6']
+NUS1--AC114501.3,1,['ccle'],['SU-DHL-6']
+FBXO10--CBWD4P,1,['ccle'],['SU-DHL-6']
+AC004687.1--MCM7,1,['ccle'],['SU-DHL-5']
+CBWD2--NPM1,1,['ccle'],['SR']
+NUCKS1--TATDN3,1,['ccle'],['SR']
+MYBL2--AL138807.1,1,['ccle'],['SR']
+ATAD5--LRRC37BP1,1,['ccle'],['SNU-C1']
+STK24--RNF113B,1,['ccle'],['SNU-C1']
+PAQR5--FAM169B,1,['ccle'],['SNU-C1']
+MIPOL1--TTC6,1,['ccle'],['RKO']
+AC139769.2--RPS5,1,['ccle'],['RKO']
+ACTR3B--AC006348.1,1,['ccle'],['RKO']
+TBC1D3L--SMYD3,1,['ccle'],['NCI-H510A']
+LMCD1-AS1--AC077690.1,1,['ccle'],['NCI-H510A']
+OXR1--PTK2,1,['ccle'],['NCI-H510A']
+TCEA2--ITGAE,1,['ccle'],['NCI-H510A']
+UBB--UBA52,1,['ccle'],['MDST8']
+ELOVL5--KLHL31,1,['ccle'],['MDA-MB-361']
+PTMA--ANP32B,1,['ccle'],['LS-180']
+MICAL3--ATP6V1E1,1,['ccle'],['LS-180']
+HBB--AC104389.5,1,['ccle'],['KU812']
+ATP2B4--ASRGL1,1,['ccle'],['KARPAS-620']
+EXD3--AC139099.2,1,['ccle'],['HT55']
+EMC1-AS1--SUZ12,1,['ccle'],['HT55']
+KDM6A--AL807742.1,1,['ccle'],['HT-29']
+MARS--INHBC,1,['ccle'],['HT-115']
+RPL7A--RPL7AP65,1,['ccle'],['HT-115']
+MALRD1--SLC39A12,1,['ccle'],['HT-115']
+AC141930.1--PXDN,1,['ccle'],['HT-115']
+YEATS4--LYZ,1,['ccle'],['HT-115']
+AC073140.2--EZH2,1,['ccle'],['HT-115']
+RAD18--OXTR,1,['ccle'],['HCT-116']
+RPL17-C18orf32--RPL17P12,1,['ccle'],['HCC1187']
+TMX2--SMTNL1,1,['ccle'],['HCC1187']
+IMMP2L--BMT2,1,['ccle'],['COLO-741']
+AL669831.3--KRT8,1,['ccle'],['CL-40']
+AL355499.1--HULC,1,['ccle'],['C2BBe1']

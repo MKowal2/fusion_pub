@@ -1,0 +1,7 @@
+dataset,cell_line,#_fusions_predicted,fusion_pred_list
+nci60,HCT-116,2,"['COMMD10--AP3S1', 'PANK2--MAVS']"
+nci60,SW620,0,[]
+nci60,HCT-15,1,['MGRN1--C16orf96']
+nci60,HT-29,2,"['MTMR3--APOH', 'MTMR3--APOH']"
+nci60,SR,2,"['GAS6--RASA3', 'MGAT5--IGL@-ext']"
+nci60,DU-145,3,"['RTRAF--SLC25A21', 'LDLR--RPL31P11', 'UBE2L3--KRAS']"

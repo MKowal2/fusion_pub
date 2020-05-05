@@ -1,0 +1,2 @@
+#FusionName	JunctionReadCount	SpanningFragCount	SpliceType	LeftGene	LeftBreakpoint	RightGene	RightBreakpoint	LargeAnchorSupport	FFPM	LeftBreakDinuc	LeftBreakEntropy	RightBreakDinuc	RightBreakEntropy	annots
+USP12--LINC02340	117	44	ONLY_REF_SPLICE	USP12^ENSG00000152484.14	chr13:27171592:-	LINC02340^ENSG00000275294.4	chr13:27190681:-	YES_LDAS	5.3131	GT	1.9086	AG	1.6895	["CCLE_StarF2019","TCGA_StarF2019","INTRACHROMOSOMAL[chr13:0.01Mb]","LOCAL_REARRANGEMENT:-:[6452]"]

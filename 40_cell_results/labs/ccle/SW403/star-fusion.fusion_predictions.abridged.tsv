@@ -1,0 +1,2 @@
+#FusionName	JunctionReadCount	SpanningFragCount	SpliceType	LeftGene	LeftBreakpoint	RightGene	RightBreakpoint	LargeAnchorSupport	FFPM	LeftBreakDinuc	LeftBreakEntropy	RightBreakDinuc	RightBreakEntropy	annots
+DNAJC3--VWA8	29	8	ONLY_REF_SPLICE	DNAJC3^ENSG00000102580.15	chr13:95725252:+	VWA8^ENSG00000102763.18	chr13:41891587:-	YES_LDAS	0.6549	GT	1.5058	AG	1.9086	["CCLE_StarF2019","INTRACHROMOSOMAL[chr13:53.72Mb]"]

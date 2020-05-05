@@ -1,0 +1,3 @@
+#FusionName	JunctionReadCount	SpanningFragCount	SpliceType	LeftGene	LeftBreakpoint	RightGene	RightBreakpoint	LargeAnchorSupport	FFPM	LeftBreakDinuc	LeftBreakEntropy	RightBreakDinuc	RightBreakEntropy	annots
+GAS6--RASA3	28	11	ONLY_REF_SPLICE	GAS6^ENSG00000183087.15	chr13:113826996:-	RASA3^ENSG00000185989.11	chr13:113981858:-	YES_LDAS	0.4138	GT	1.9086	AG	1.8295	["TCGA_StarF2019","CCLE_StarF2019","INTRACHROMOSOMAL[chr13:0.11Mb]"]
+MGAT5--IGL@-ext	10	0	INCL_NON_REF_SPLICE	MGAT5^ENSG00000152127.9	chr2:134120291:+	IGL@-ext^IGL.g@-ext	chr22:22922722:+	YES_LDAS	0.1061	GT	1.8256	AG	1.7819	["INTERCHROMOSOMAL[chr2--chr22]"]
